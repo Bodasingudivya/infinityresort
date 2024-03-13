@@ -1,0 +1,216 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*------------------------------------------- section 1 --------------------------------------------------*/
+.aaa img {
+    margin-left: 4ch;
+}
+
+.aaa a {
+    margin-left: 50px;
+}
+
+.aaa i {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.aaa button {
+    margin-right: 30px;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(245, 203, 125);
+    color: white;
+    border-radius: 10px;
+
+}
+
+.aaa button:hover {
+    background-color: rgb(240, 179, 67);
+    color: white;
+}
+
+/*------------------------------------ section 3 -----------------------------------------------*/
+.ddd {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(186, 156, 94);
+    text-align: center;
+}
+
+.ddd h3 {
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ddd h6 {
+    margin-top: 25px;
+    font-family: sans-serif;
+
+}
+
+.ddd p {
+    margin-top: 25px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+
+}
+
+/*----------------------------------------------- section 4 ------------------------------------------------*/
+.divya {
+    background-color: rgb(245, 245, 240);
+}
+
+.eee {
+    height: 1100px;
+    width: 100%;
+}
+
+.eee h4 {
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.eee p {
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.eee img {
+    margin-top: 50px;
+    border-radius: 10px;
+    filter: brightness(100%);
+}
+
+.eee img:hover {
+    transform: scale(1.0);
+    filter: brightness(28%);
+}
+
+.ggg img {
+    margin-top: 50px;
+}
+
+.ggg img:hover {
+    transform: scale(1.0);
+    filter: brightness(28%);
+}
+
+.ggg h6 {
+    margin-top: 15px;
+    color: rgb(219, 149, 7);
+    font-weight: bold;
+
+}
+
+.ggg h6:hover {
+    text-decoration: underline;
+}
+
+.eee h6 {
+    margin-top: 15px;
+    color: rgb(219, 149, 7);
+    font-weight: bold;
+
+}
+
+.eee h6:hover {
+    text-decoration: underline;
+}
+
+/*-------------------------------------------------- section 5 -------------------------------------------------*/
+.hhh h4 {
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hhh img {
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 40px;
+}
+
+/*--------------------------------------- section 6 ----------------------------------------*/
+.iii h4 {
+    margin-top: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.jjj img {
+    margin-top: 50px;
+}
+
+.jjj p {
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.jjj span {
+    color: rgb(219, 149, 7);
+
+}
+
+.jjj span:hover {
+    text-decoration: underline;
+}
+
+/*---------------------------------------- section 7 ---------------------------------*/
+
+.kkk {
+    height: 660px;
+    width: 60%;
+}
+
+.kkk h4 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+
+}
+
+.kkk img {
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+/*---------------------------------------- section 8 ------------------------------------------------*/
+
+.dia {
+    height: 500px;
+}
+
+.lll {
+    color: rgb(252, 206, 122);
+
+
+}
+
+.lll h6 {
+    margin-top: 60px;
+}
+
+.lll p {
+    margin-top: 30px;
+}
+
+.lll i {
+    font-size: 20px;
+}
+
+.mmm i {
+    font-size: 30px;
+}
+
+.mmm h6 {
+    margin-top: 40px;
+}
